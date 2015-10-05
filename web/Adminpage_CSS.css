@@ -1,0 +1,63 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 21, 2015, 6:24:21 PM
+    Author     : LingJie
+*/
+
+#headerImg{
+  heigth:50px;
+width:300px;  
+float:inherit;    
+ padding: 10px 10px 5px 0px;     
+}
+#image_carousel{
+    
+    heigth:530px;
+		 width:600px;
+    
+    
+    
+}
+#img1{
+         heigth:20%;
+		 width:90%;
+                 
+         padding: 10px 10px 5px 0px;        
+}
+
+#firstword{
+    font-family: bebas neue;
+        font-size: 25px;
+        font-style: inherit;
+        font-weight: inherit;
+    
+    
+}
+
+
+#tagHeader{
+            padding: 10px;
+
+}
+
+#tag_contain{
+       padding: 0px 0px 0px 0px;
+       float:right;
+
+}
+
+#tag_search{
+
+ padding: 6px 184px 40px 1px;
+
+}
+
+li{
+    position: relative;
+    
+}
+
